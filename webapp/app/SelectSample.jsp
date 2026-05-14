@@ -13,7 +13,7 @@
        border:1px solid #ccc;}
 	</style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>社員一覧</title>
+<title>社員の一覧</title>
 </head>
 <body>
 <h3>JSP上でDBレコードを取得するサンプル (Docker環境)</h3>
