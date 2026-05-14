@@ -20,7 +20,7 @@
 
 <form action="Servlet/SearchSample" method="GET">
     名前で検索：<input type="text" name="keyword" />
-    <input type="submit" value="検索" />
+    <input type="submit" value="検索!" />
 </form>
 
 <table border="1">

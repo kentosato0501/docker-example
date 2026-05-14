@@ -16,3 +16,4 @@ Thumbs.db
 
 # Docker ボリュームデータ（ローカルのみ）
 db-data/
+/build/
