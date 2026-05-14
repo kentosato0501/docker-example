@@ -1,0 +1,18 @@
+# コンパイル済みクラスファイル（Eclipse が自動生成）
+*.class
+
+# webapp 配下の .class のみ明示的に除外（webapp/app/ 配下の JSP/HTML/XML 等は管理対象）
+/webapp/**/*.class
+
+# Eclipse 設定ファイル
+.settings/
+.project
+.classpath
+bin/
+
+# OS 生成ファイル
+.DS_Store
+Thumbs.db
+
+# Docker ボリュームデータ（ローカルのみ）
+db-data/
