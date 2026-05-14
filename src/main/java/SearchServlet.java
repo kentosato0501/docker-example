@@ -53,7 +53,7 @@ public class SearchServlet extends HttpServlet {
             out.println("<h3>検索結果</h3>");
 
             // 検索フォーム
-            out.println("<form action=\"/example/Servlet/SearchSample\" method=\"GET\">");
+            out.println("<form action=\"Servlet/SearchSample\" method=\"GET\">");
             out.println("名前で検索：<input type=\"text\" name=\"keyword\" value=\""
                 + (keyword != null ? keyword : "") + "\" />");
             out.println("<input type=\"submit\" value=\"検索\" />");
