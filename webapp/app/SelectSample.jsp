@@ -13,14 +13,14 @@
        border:1px solid #ccc;}
 	</style>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>社員一覧</title>
+<title>社員の一覧</title>
 </head>
 <body>
 <h3>JSP上でDBレコードを取得するサンプル (Docker環境)</h3>
 
 <form action="Servlet/SearchSample" method="GET">
     名前で検索：<input type="text" name="keyword" />
-    <input type="submit" value="検索" />
+    <input type="submit" value="検索!" />
 </form>
 
 <table border="1">
